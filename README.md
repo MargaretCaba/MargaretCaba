@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @MargaretCaba
-- 👀 I’m interested in web design
-- 🌱 I’m currently learning JavaScript, HTML, and CSS
+- 👋 Hi, I’m @MargaretCaba.
+- 👀 I’m interested in web design.
+- 🌱 I’m currently learning JavaScript, HTML, and CSS.
 - 💞️ I’m looking to collaborate on opportunities to learn on exciting projects.
 - 📫 How to reach me: margaretquezada59@gmail.com
 
